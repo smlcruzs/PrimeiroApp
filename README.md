@@ -11,7 +11,7 @@ Atividade avaliativa da disciplina de Desenvolvimento de Dispositovos Móveis do
 
 **Autores**
 
-Rafael Levi
+Rafael Levi Samuel Cruz
 
 **Tecnologias**
 
